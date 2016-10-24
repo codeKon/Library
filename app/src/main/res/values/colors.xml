@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="brown">#a52a2a</color>
+    <color name="brown_1">#ff4040</color>
+    <color name="rosybrown">#ffc1c1</color>
+    <color name="rosybrown_2">#eeb4b4</color>
+    <color name="rosybrown_3">#cd9b9b</color>
+    <color name="rosybrown_4">#8b6969</color>
+</resources>

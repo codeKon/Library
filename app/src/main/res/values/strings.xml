@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="literature_1">Roman</string>
+    <string name="literature_2">Hikaye</string>
+    <string name="literature_3">Deneme</string>
+    <string name="literature_4">Siir</string>
+    <string name="literature_5">Makale</string>
+
+    <string name="poem_1">Ağlasam sesimi duyar mısınız\nMısralarımda\nDokunabilir misiniz,\nGöz yaşlarıma, ellerinizle?\nBilmezdim şarkıların bu kadar güzel,\nKelimelerinse kifayetsiz olduğunu\nBu derde düşmeden önce\nBir yer var, biliyorum\nHer şeyi söylemek mümkün;\nEpeyce yaklaşmışım, duyuyorum;\nAnlatamıyorum.\n\nOrhan Veli Kanik
+    </string>
+
+    <string name="story_1">Ömer Seyfettin</string>
+    <string name="essay_1">Montaigne Denemeler</string>
+</resources>
